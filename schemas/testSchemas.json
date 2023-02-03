@@ -1,0 +1,16 @@
+{
+  "name": "TEST tokens",
+  "statuses": {
+      "start": {}
+  },
+  "data": [
+    {
+      "id": "1",
+      "name": "test data 1"
+    },
+    {
+      "id": "2",
+      "name": "test data 2"
+    }
+  ]
+}
