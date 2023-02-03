@@ -3,7 +3,7 @@ name: Schema Deploy
 on: 
   push:
     branches:
-      - 'demo-app'
+      - 'main'
     paths:
       - 'schemas/**'
   workflow_dispatch:
